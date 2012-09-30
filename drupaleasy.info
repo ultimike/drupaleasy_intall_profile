@@ -1,0 +1,38 @@
+name = DrupalEasy Profile
+description = Basic installation profile for most sites. Includes commonly-used modules.
+core = 7.x
+
+# Core modules to enable
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+Contrib modules to enable
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+dependencies[] = backup_migrate
+dependencies[] = ctools
+dependencies[] = link
+dependencies[] = module_filter
+dependencies[] = pathauto
+dependencies[] = token
+dependencies[] = views
+dependencies[] = views_ui
+
+files[] = drupaleasy.profile
