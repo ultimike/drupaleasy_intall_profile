@@ -26,12 +26,14 @@ dependencies[] = rdf
 Contrib modules to enable
 dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
+dependencies[] = autocomplete_deluxe
 dependencies[] = backup_migrate
 dependencies[] = ctools
 dependencies[] = entitycache
 dependencies[] = link
 dependencies[] = module_filter
 dependencies[] = pathauto
+dependencies[] = security_check
 dependencies[] = token
 dependencies[] = views
 dependencies[] = views_ui
