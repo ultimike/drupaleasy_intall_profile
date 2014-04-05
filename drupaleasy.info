@@ -33,7 +33,6 @@ dependencies[] = entitycache
 dependencies[] = link
 dependencies[] = module_filter
 dependencies[] = pathauto
-dependencies[] = security_check
 dependencies[] = token
 dependencies[] = views
 dependencies[] = views_ui
